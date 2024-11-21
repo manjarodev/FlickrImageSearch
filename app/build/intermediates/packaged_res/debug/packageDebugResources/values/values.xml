@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Flickr Image Search</string>
+    <string name="author">Author: %1$s</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="image">Image</string>
+    <string name="image_details">Image Details</string>
+    <string name="no_description">No Description</string>
+    <string name="no_title">No Title</string>
+    <string name="search_images">Search Images</string>
+    <string name="share_image">Share Image</string>
+    <string name="type_anything_to_search">Type anything to search</string>
+    <string name="unknown">Unknown</string>
+    <style name="Theme.FlickrImageSearch" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

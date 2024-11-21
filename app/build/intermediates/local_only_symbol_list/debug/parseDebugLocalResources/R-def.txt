@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string author
+string back
+string home
+string image
+string image_details
+string no_description
+string no_title
+string search_images
+string share_image
+string type_anything_to_search
+string unknown
+style Theme.FlickrImageSearch
+xml backup_rules
+xml data_extraction_rules
